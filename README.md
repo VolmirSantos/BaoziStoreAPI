@@ -130,12 +130,19 @@ Password:
 
 1. Criar o cliente.
 2. Criar o produto.
-3. Criar o pedido usando `clienteId: 1` e `produtoId: 1`.
+3. Criar o pedido.
 4. Fazer GET geral de clientes.
 5. Fazer GET geral de produtos.
 6. Fazer GET geral de pedidos.
-7. Fazer GET por ID.
-8. Fazer DELETE.
+7. Fazer GET de cliente por ID.
+8. Fazer GET de produto por ID.
+9. Fazer GET de pedido por ID.
+10. Atualizar o cliente com PUT.
+11. Atualizar o produto com PUT.
+12. Atualizar o pedido com PUT.
+13. Excluir o pedido.
+14. Excluir o produto.
+15. Excluir o cliente.
 
 **Importante:** para os prints do trabalho, tire as capturas antes de executar os DELETEs finais.
 
@@ -145,7 +152,7 @@ Password:
 
 ```json
 {
-  "nome": "volmir_santos_1560690",
+  "nome": "Volmir - RU: 1560690"
   "clienteDesde": "2026-08-15"
 }
 ```

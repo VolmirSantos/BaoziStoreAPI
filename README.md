@@ -152,7 +152,7 @@ Password:
 
 ```json
 {
-  "nome": "Volmir - RU: 1560690"
+  "nome": "Volmir - RU: 1560690",
   "clienteDesde": "2026-08-15"
 }
 ```

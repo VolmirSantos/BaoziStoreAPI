@@ -169,9 +169,3 @@ Password:
   "quantidade": 5
 }
 ```
-
-## Observação para a entrega
-
-O enunciado solicita que o nome do cliente seja composto pelo nome do aluno seguido do RU. Substitua `SEU_NOME_RU` pelo seu nome e RU antes dos testes no Postman.
-
-O enunciado também exige prints do Postman para criação, listagem, consulta por ID e exclusão, além do diagrama de caso de uso, especificação da API e link do repositório.
